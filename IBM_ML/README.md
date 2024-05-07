@@ -1,6 +1,6 @@
 # [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 <p>Learning notes for IBM's 6-course series of Machine Learning Professional Certificate.</p>
-<img height="100" src="https://github.com/AlexTRee/IBM_ML/assets/6876649/0f46887c-db13-4e9e-a075-0948baaf3e54">  
+<img height="100" src="https://github.com/AlexTRee/contedu/assets/6876649/65427fa0-230f-4840-a282-c2801ca4cc31">  
 <br></br>
 
 | No. | Course                                                               |Status|
