@@ -7,7 +7,7 @@
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [Exploratory Data Analysis for Machine Learning](https://github.com/AlexTRee/IBM_ML/tree/main/Course1_Exploratory_Data_Analysis_for_Machine_Learning)| ✅ |
 | 02.     | [Supervised Machine Learning: Regression](https://github.com/AlexTRee/IBM_ML/tree/main/Course2_Supervised_Machine_Learning_Regression)| ⏳ | 
-| 03.     | [Supervised Machine Learning: Classification](https://github.com/AlexTRee/IBM_ML/tree/main/Course3_Supervised_Machine_Learning_Classification)| ⏳ |
+| 03.     | [Supervised Machine Learning: Classification](https://github.com/AlexTRee/IBM_ML/tree/main/Course3_Supervised_Machine_Learning_Classification)| ✅ |
 | 04.     | [Unsupervised Machine Learning](https://github.com/AlexTRee/IBM_ML/tree/main/Course4_Unsupervised_Machine_Learning)| ⏳ |
 | 05.     | [Deep Learning and Reinforcement Learning](https://github.com/AlexTRee/IBM_ML/tree/main/Course5_Deep_Learning_and_Reinforcement_Learning)| ⏳ | 
 | 06.     | [Machine Learning Capstone](https://github.com/AlexTRee/IBM_ML/tree/main/Course6_Machine_Learning_Capstone)| ⏳ |
